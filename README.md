@@ -74,6 +74,12 @@ This project was developed as a **Bachelor’s graduation project** in Informati
 - Admin Database Panel (Supabase)
 
 ---
+## Files of Project
+
+| Files | 
+|------|
+| ![Files](<img width="547" height="787" alt="image" src="https://github.com/user-attachments/assets/e0566a8c-4dd4-4f40-9882-abfc123d1fc1" />
+)
 
 ## 🖼️ Screenshots
 
